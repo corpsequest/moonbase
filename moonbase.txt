@@ -1,0 +1,5 @@
+'moonbase'
+{
+    'base'      'base'
+    'title'     'Moonbase'
+}
